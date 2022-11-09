@@ -24,7 +24,7 @@ Shutter Speed : 1/1000
 ISO : 100
 ```
 
-### Picking up students who graduated by HMTC.
+### Picking up Students who Graduated by HMTC.
 
 ![IMG_0171-min](https://user-images.githubusercontent.com/112471006/200759533-356d495e-bfbd-4ba4-be24-7e9a8cd5c367.jpg)
 
