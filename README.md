@@ -47,5 +47,16 @@ Shutter Speed : 1/500
 ISO : 100
 ```
 
+### Bridge in Jurong East, Singapore.
+![IMG_5409-min](https://user-images.githubusercontent.com/112471006/219289386-3d336616-d11d-4b1d-9c55-726332705fbd.png)
+
+Taken with Canon EOS 6D MARK II <br>
+Lens 24-105mm f/4L
+```
+Aperture : f/6.3
+Shutter Speed : 1/640
+ISO : 100
+```
+
 
 
