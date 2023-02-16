@@ -1,62 +1,26 @@
 # Photography Portfolio
+All photos taken with Canon EOS 600D and Canon EOS 6D Mark II
 
 ### Waterfall in Mojokerto, East Java.
-
-![1-min](https://user-images.githubusercontent.com/112471006/200637625-56c0d6ce-e67f-43a5-a52c-168ff56564f7.png)
-
-Taken with Canon EOS 600D <br>
-Lens 16-35mm f/2.8L 
-```
-Aperture : f/3.2
-Shutter Speed : 1/50
-ISO : 400
-```
+ ![1-min](https://user-images.githubusercontent.com/112471006/200637625-56c0d6ce-e67f-43a5-a52c-168ff56564f7.png) 
 
 ### A Boat in Sibolga, North Sumatra.
-
 ![IMG_9755-min](https://user-images.githubusercontent.com/112471006/200637678-26fe7a80-2634-4633-988d-43388dd55df3.png)
-
-Taken with Canon EOS 6D MARK II <br>
-Lens 24-105mm f/4L
-```
-Aperture : f/4
-Shutter Speed : 1/1000
-ISO : 100
-```
-
-### Picking up Students who Graduated by HMTC.
-
-![IMG_0171-min](https://user-images.githubusercontent.com/112471006/200759533-356d495e-bfbd-4ba4-be24-7e9a8cd5c367.jpg)
-
-Taken with Canon EOS 600D <br>
-Lens 16-35mm f/2.8L 
-```
-Aperture : f/2.8
-Shutter Speed : 1/1000
-ISO : 100
-```
-
-
-![IMG_0214-min](https://user-images.githubusercontent.com/112471006/200759834-bcedfc96-dd64-4b97-8d2b-cfc8967aaee3.jpg)
-
-Taken with Canon EOS 600D <br>
-Lens 16-35mm f/2.8L 
-```
-Aperture : f/2.8
-Shutter Speed : 1/500
-ISO : 100
-```
 
 ### Bridge in Jurong East, Singapore.
 ![IMG_5409-min](https://user-images.githubusercontent.com/112471006/219289386-3d336616-d11d-4b1d-9c55-726332705fbd.png)
+![IMG_5402](https://user-images.githubusercontent.com/112471006/219396822-3416dbbd-4e32-47b1-913f-dea66f0df855.jpg)
 
-Taken with Canon EOS 6D MARK II <br>
-Lens 24-105mm f/4L
-```
-Aperture : f/6.3
-Shutter Speed : 1/640
-ISO : 100
-```
+### The Singapore Flyer.
+![63%](https://user-images.githubusercontent.com/112471006/219389710-e3d841fd-de25-41b1-a60e-a396d6e8fad5.jpg)
+![IMG_5427](https://user-images.githubusercontent.com/112471006/219396557-85f11c63-7b64-4c8d-92b1-bdf6a5582713.jpg)
+
+### Lake Toba in North Sumatra.
+![IMG_5528](https://user-images.githubusercontent.com/112471006/219397269-676bfb28-2d7d-498f-915b-5f84f150a2e8.jpg)
+
+### A hill in Tongging, North Sumatra.
+![IMG_5553](https://user-images.githubusercontent.com/112471006/219397606-f7551102-c5e9-4b2f-9a6d-cd06177c4cca.jpg)
+
 
 
 
