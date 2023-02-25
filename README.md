@@ -20,7 +20,4 @@ All photos taken with Canon EOS 600D and Canon EOS 6D Mark II
 
 ### A hill in Tongging, North Sumatra.
 ![IMG_5553](https://user-images.githubusercontent.com/112471006/219397606-f7551102-c5e9-4b2f-9a6d-cd06177c4cca.jpg)
-
-
-
-
+![IMG_5551](https://user-images.githubusercontent.com/112471006/221347987-15328016-ed76-45b7-86a5-fa6937f65849.jpg)
